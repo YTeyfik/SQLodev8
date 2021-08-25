@@ -11,4 +11,5 @@ Patikadev 8. SQL ödevi TABLO işlemleri(CREATE INSERT UPDATE DELETE)
 3 Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
 
 4 Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
+
 ```
